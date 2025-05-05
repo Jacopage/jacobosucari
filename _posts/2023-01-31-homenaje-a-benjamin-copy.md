@@ -1,23 +1,23 @@
 ---
 layout: post
 date: 2023-01-31 11:59:00
-title: "En preparación: 'El mite de l'absent. Homenatge a Walter Benjamin'"
-description: 'Una pel·lícula escrita i dirigida per Jacobo Sucari. En col·laboració amb “La Virreina, Centre de la imatge de Barcelona”, Ajuntament de Barcelona- ICUB (Institut de Cultura de Barcelona).'
+title: "Walter Benjamin, el aura del camino"
+description: 'Una película y dirigida per Jacobo Sucari.'
 categories: walter-benjamin documentales 
-vimeoID: 758002074
+vimeoID: 954134740
 
 ---
 
->Teaser 04 :39 minutes
+>Teaser 02:15 minutes
 
-Una pel·lícula escrita i dirigida per Jacobo Sucari.
-En col·laboració amb “La Virreina, Centre de la imatge de Barcelona”, Ajuntament de Barcelona- ICUB (Institut de Cultura de Barcelona).
+Una película escrita y dirigida per Jacobo Sucari.
+
 
 (FOTO)
 
 
 ## Sinopsis
+El filósofo Walter Benjamin intentó huir del avance nazi en 1940 cruzando a pie la frontera entre Francia y España. Su huida acabó en suicidio. La ruta que siguió entre Banyuls y Portbou ha sido bautizada desde entonces como el Camino de Walter Benjamin, y es recorrida cada año por cientos de peregrinos que acuden para honrar su memoria junto a la de otros exilios: el del bando republicano tras el golpe franquista en España, la de tantos huyendo de la barbarie Nazi en la Segunda Guerra. El documental “Walter Benjamin, el aura del camino” es la historia de esta ruta, relato de memoria histórica, una reflexión sobre el exilio y el pensamiento de Benjamin.
 
-Hi ha una ruta de senderisme entre Banyuls (França) i Port Bou (Espanya). Aquest és el camí que va prendre el filòsof Walter Benjamin mentre intentava escapar dels nazis. Avui, és un camí recorregut pels seus deixebles i admiradors. Aquest camí també parla dels exiliats d'ahir i d'avui, tots aquells anònims, estimats pel filòsof que van voler escriure una història per a aquells a qui la història oblida. Dones i homes que, a la nit, tenien por i fred com ell en aquest camí de muntanya, i que somiaven com ell d'una altra vida, d'un altre món.
 
 
