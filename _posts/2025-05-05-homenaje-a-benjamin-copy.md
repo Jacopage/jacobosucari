@@ -8,7 +8,7 @@ vimeoID: 954134740
 
 ---
 
->Teaser 02:15 minutes
+>Teaser 02:15 minutos
 
 Una película escrita y dirigida per Jacobo Sucari.
 [English SYNOPSIS - TECHNICAL SPECIFICATIONS - BIOGRAPHY - FILMOGRAPHY - ARTISTIC CV](assets/pdf/Walter Benjamin Doc- English SYNOPSIS-- Filmographia - CV Author.pdf)
