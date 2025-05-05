@@ -11,9 +11,9 @@ vimeoID: 954134740
 >Teaser 02:15 minutes
 
 Una película escrita y dirigida per Jacobo Sucari.
+[English SYNOPSIS - TECHNICAL SPECIFICATIONS - BIOGRAPHY - FILMOGRAPHY - ARTISTIC CV]
 
 
-(FOTO)
 
 
 ## Sinopsis
