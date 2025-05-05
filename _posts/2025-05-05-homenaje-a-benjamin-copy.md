@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-01-31 11:59:00
+date: 2025-05-05 11:59:00
 title: "Walter Benjamin, el aura del camino"
 description: 'Una película y dirigida per Jacobo Sucari.'
 categories: walter-benjamin documentales 
