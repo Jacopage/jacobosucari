@@ -178,9 +178,12 @@ Reina Sofia. 2000-2001.
 - Videobrasil. Colectiva de Videoart. 2001.
 - MAMBA, Museu d'Art Modern de Buenos Aires, 2000. Projecció de treballs.
 
-**More info:**
-www.jacobosucari.com
+>**More info:**
+>
+>www.jacobosucari.com
+>
 > **Contact:**
+>
 > jacobosucari@gmail.com
 > +34699385179
 > Barcelona 2025
