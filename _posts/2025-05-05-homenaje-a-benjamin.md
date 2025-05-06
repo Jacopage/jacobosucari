@@ -4,7 +4,7 @@ date: 2025-05-05 11:59:00
 title: "Walter Benjamin, el aura del camino"
 description: ''
 categories: walter-benjamin documentales 
-vimeoID: 954134740
+vimeoID: 
 
 ---
 
@@ -22,4 +22,3 @@ El filósofo Walter Benjamin intentó huir del avance nazi en 1940 cruzando a pi
 <iframe src="https://player.vimeo.com/video/954134740" width="700" height="480" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
     </iframe>
 
-{% include vimeoPlayer.html id=page.vimeoId %}

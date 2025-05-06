@@ -30,7 +30,8 @@ Mi trabajo en el ámbito artístico y documental ha sido presentado en distintos
 <br />
 <br />
 
-{% include vimeoPlayer.html id=page.vimeoId %}
+<iframe src="https://player.vimeo.com/video/954134740" width="700" height="480" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+    </iframe>
 <hr />
 
 
