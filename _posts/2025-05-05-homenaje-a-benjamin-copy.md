@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 date: 2025-05-05 11:59:00
 title: "Walter Benjamin, el aura del camino"
 description: 'Una película y dirigida per Jacobo Sucari.'

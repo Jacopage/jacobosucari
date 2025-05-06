@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  'Documental:  Lina Bo Bardi: del vidrio al barro'
 date: 2022-12-28 21:01:00
 description: 'Una joven arquitecta en Brasil, venida de la Italia de postguerra'
