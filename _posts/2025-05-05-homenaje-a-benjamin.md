@@ -2,17 +2,16 @@
 layout: page
 date: 2025-05-05 11:59:00
 title: "Walter Benjamin, el aura del camino"
-description: 'Una película y dirigida per Jacobo Sucari.'
+description: ''
 categories: walter-benjamin documentales 
 vimeoID: 954134740
 
 ---
 
->Teaser 02:15 minutos
-
 Una película escrita y dirigida per Jacobo Sucari.
 
-Information in English can be downloaded [here]({{baseurl}}/assets/pdf/walter-benjamin.pdf")
+Information in English can be downloaded [here]({% link /assets/pdf/walter-benjamin.pdf %})
+
 
 
 ## Sinopsis
@@ -20,4 +19,6 @@ El filósofo Walter Benjamin intentó huir del avance nazi en 1940 cruzando a pi
 
 
 
-{% include vimeoPlayer.html id=page.vimeoId %}
+
+
+{% include vimeoPlayer.html id=954134740 %}
