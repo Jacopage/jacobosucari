@@ -12,15 +12,7 @@ vimeoID: 954134740
 
 Una película escrita y dirigida per Jacobo Sucari.
 
-<p>English: <a href="http://jacobosucari/assets/pdf/walter-benjamin.pdf" 
-" target="_blank">Read more</a></p>
-
-
-
-
-
-
-
+Information in English can be downloaded [here]("http://jacobosucari/assets/pdf/walter-benjamin.pdf")
 
 
 ## Sinopsis
