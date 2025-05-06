@@ -10,7 +10,7 @@ vimeoID:
 
 Una película escrita y dirigida per Jacobo Sucari.
 
-Information in English can be downloaded [here]({% link /assets/pdf/walter-benjamin.pdf %})
+Information in English can be downloaded [here]({% link /assets/pdf/walter-benjamin.pdf %}), and the post in English can be seen [here](http://jacobosucari.com/blog/2025/walter-benjamin-in-english/)
 
 
 
@@ -19,6 +19,6 @@ El filósofo Walter Benjamin intentó huir del avance nazi en 1940 cruzando a pi
 
 
 
-<iframe src="https://player.vimeo.com/video/954134740" width="700" height="480" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
-    </iframe>
+    <iframe src="https://player.vimeo.com/video/954134740" width="700" height="480" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+        </iframe>
 
