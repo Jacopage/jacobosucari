@@ -24,3 +24,4 @@ El filósofo Walter Benjamin intentó huir del avance nazi en 1940 cruzando a pi
 
 
 
+{% include vimeoPlayer.html id=page.vimeoId %}
