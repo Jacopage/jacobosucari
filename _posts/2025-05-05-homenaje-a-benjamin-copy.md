@@ -5,14 +5,15 @@ title: "Walter Benjamin, el aura del camino"
 description: 'Una película y dirigida per Jacobo Sucari.'
 categories: walter-benjamin documentales 
 vimeoID: 954134740
-cv-pdf: walter-benjamin.pdf
 
 ---
 
 >Teaser 02:15 minutos
 
 Una película escrita y dirigida per Jacobo Sucari.
-English: 
+
+English:  [PDF](../assets/pdf/walter-benjamin.pdf)
+
 
 
 
