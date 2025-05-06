@@ -121,16 +121,16 @@ Spain, 1998.
 
 ### Books and DVDs publications in recent years:
 
-2022: ‘Technologies for the common good: from collective knowledge to community
+- 2022: ‘Technologies for the common good: from collective knowledge to community
 good’. (essay) 2021 - ‘Frustrated projects’ (fiction).
-2015 - 2021: Publication in specialist journals of various research works on art, science
+- 2015 - 2021: Publication in specialist journals of various research works on art, science
 and technology (essay). https://jacobosucari.com/publications/
-2015: Distribution of the DVD in bookshops: DVD ‘Un cosmos qui danse, soufisme
+- 2015: Distribution of the DVD in bookshops: DVD ‘Un cosmos qui danse, soufisme
 mystique et musique’. Documentary. 54 minutes.
-2014: Formes de l'imaginaire techno-esthétique. The cinema of thought. Editorial Aldea
+- 2014: Formes de l'imaginaire techno-esthétique. The cinema of thought. Editorial Aldea
 Global. Published by the University of Valencia, Spain (essay).
-2012: Le documentaire élargi, l'écran et l'espace. Editorial UOCPress (essay)
-2011: ‘The transformed city’. Two television documentaries and an installation on
+- 2012: Le documentaire élargi, l'écran et l'espace. Editorial UOCPress (essay)
+- 2011: ‘The transformed city’. Two television documentaries and an installation on
 urban transformation: ‘The struggle for urban space’ and ‘Destroy and build, the story
 of a factory’. DVD. Caixaforum, TV3, and La Trinxera Audiovisual SCCL.
 ## Expositions:
